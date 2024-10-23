@@ -5,6 +5,8 @@ import plotly.graph_objects as go
 import json
 from sidebar import notes_sidebar, apply_filters_sidebar
 
+st.set_page_config(page_title="4. Language Support")
+
 # Load the cleaned games data
 @st.cache_data
 def load_json_data(file):

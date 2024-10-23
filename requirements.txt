@@ -4,3 +4,4 @@ kaggle
 requests
 pandas
 numpy
+st-pages

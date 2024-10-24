@@ -40,6 +40,7 @@ Navigate through the pages using the sidebar to explore different aspects of the
 On the left you will find 5 tabs, each for a different visualization. press whichever you want to see, explenation for each tab is shown on the tab page.
 Below the tabs is a filter option, since there are many games on steam and quite a lot of them have little to no playerbase we added a filter to reduce the amount of games shown, the default filter is set to minimum of 20 reviews but you can choose to filter it as you wish. Please note tht the filter is in effect for all tabs.
 
+Loading the data might take a few seconds, please be patient.
 ---------------------------------------
 
 ### Graphs on the site
